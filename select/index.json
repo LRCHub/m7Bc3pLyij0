@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Happier",
+  "base_artist": "Marshmello & Bastille",
+  "createdAt": "2026-03-25T14:28:12.645078Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Fitter Happier",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/01_Fitter_Happier_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I Like You (A Happier Song) (with Doja Cat)",
+      "artist": "Post Malone feat. Doja Cat",
+      "has_synced": true,
+      "path": "select/02_I_Like_You_(A_Happier_Song)_(with_Doja_Cat)_Post_Malone_feat._Doja_Cat.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I Like You (A Happier Song)",
+      "artist": "Post Malone feat. Doja Cat",
+      "has_synced": true,
+      "path": "select/03_I_Like_You_(A_Happier_Song)_Post_Malone_feat._Doja_Cat.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "happier than sunshine",
+      "artist": "Swing Out Sister",
+      "has_synced": true,
+      "path": "select/04_happier_than_sunshine_Swing_Out_Sister.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Hope She'll Be Happier",
+      "artist": "Sweetback",
+      "has_synced": true,
+      "path": "select/05_Hope_She'll_Be_Happier_Sweetback.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Happier Than Ever",
+      "artist": "Billie Eilish",
+      "has_synced": true,
+      "path": "select/06_Happier_Than_Ever_Billie_Eilish.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Fitter Happier",
+      "artist": "Easy Star All Stars",
+      "has_synced": false,
+      "path": "select/07_Fitter_Happier_Easy_Star_All_Stars.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Would You Be Happier?",
+      "artist": "The Corrs",
+      "has_synced": true,
+      "path": "select/08_Would_You_Be_Happier_The_Corrs.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I Like You (A Happier Song)",
+      "artist": "Post Malone with Doja Cat",
+      "has_synced": true,
+      "path": "select/09_I_Like_You_(A_Happier_Song)_Post_Malone_with_Doja_Cat.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Happier",
+      "artist": "Colbie Caillat",
+      "has_synced": true,
+      "path": "select/10_Happier_Colbie_Caillat.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Would You Be Happier?",
+      "artist": "The Corrs",
+      "has_synced": true,
+      "path": "select/11_Would_You_Be_Happier_The_Corrs.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Happier Than Ever",
+      "artist": "Kelly Clarkson",
+      "has_synced": true,
+      "path": "select/12_Happier_Than_Ever_Kelly_Clarkson.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Happier",
+      "artist": "Ed Sheeran",
+      "has_synced": true,
+      "path": "select/13_Happier_Ed_Sheeran.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Would You Be Happier? - Live In Dublin",
+      "artist": "The Corrs",
+      "has_synced": false,
+      "path": "select/14_Would_You_Be_Happier__-_Live_In_Dublin_The_Corrs.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Happier (Frank Walker Remix)",
+      "artist": "Marshmello feat. Bastille",
+      "has_synced": true,
+      "path": "select/15_Happier_(Frank_Walker_Remix)_Marshmello_feat._Bastille.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Happier (Frank Walker Remix)",
+      "artist": "Marshmello",
+      "has_synced": true,
+      "path": "select/16_Happier_(Frank_Walker_Remix)_Marshmello.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Happier",
+      "artist": "Marshmello & Bastille",
+      "has_synced": false,
+      "path": "select/pl_01_Happier_Marshmello_&_Bastille.txt"
+    }
+  ]
+}
